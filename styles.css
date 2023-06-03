@@ -1,1 +1,9 @@
 /*  your css code here. If applicable */
+h1{
+             
+            /* Increase this as per requirement */
+            padding-bottom: 15px;
+            border-bottom-style: solid;
+            border-bottom-width: 1px;
+            width: 100%;
+        }
